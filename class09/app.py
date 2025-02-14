@@ -10,19 +10,19 @@
 # # # name = "pakistan"
 
 # # # print(name.count('a'))
-# # # newName = 'my name is Fatima and my nationality is pakistan'
+# # # newName = 'my name is Aneeq and my nationality is pakistan'
 # # # print(newName.find('is'))
 
 
 # # # length  
-# # # newName = 'my     name is Fatima and my nationality is pakistan'
+# # # newName = 'my     name is Aneeq and my nationality is pakistan'
 # # # name_count = len(newName)    # snake_case 
 # # # print(name_count)
 
 
 
 # # # replace :
-# # new_name:str = 'my name is Fatima and my nationality is pakistan'
+# # new_name:str = 'my name is Aneeq and my nationality is pakistan'
 # # # print(new_name.replace('pakistan','America'))
 
 # # # index
@@ -30,14 +30,14 @@
 # # print(new_name.find('america'))
 
 # # LIST 
-# # my_list = ['Maimoona','Sana','Areeba']
+# # my_list = ['Ali','Abdullah','Aamir']
 # # append :
-# # my_list.append('Aisha')
+# # my_list.append('Asif')
 # # print(my_list)
 
 
 # # insert :
-# # my_list.insert(-1,"Ayesha")
+# # my_list.insert(-1,"Sabir")
 # # print(my_list)
 # # print(my_list[-1])
 
@@ -51,7 +51,7 @@
 # # print(my_list)
 
 # # extend 
-# my_list = ['Maimoona','Sana','Areeba']
+# my_list = ['Asif','Ali','Aamir']
 # new_list = ['Ali','Aneeq','Abdullah']
 # my_list.extend(new_list)
 
